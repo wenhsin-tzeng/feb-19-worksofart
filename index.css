@@ -148,3 +148,41 @@ a:hover{
   border-style: solid;
   border-width: 7px 0px 14px 7px;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .container {
+    /* background-color: white; */
+    width: 600px;
+    height: 957px;
+    border-width: 20px;
+    border-color: lightblue;
+    border-style: solid;
+    margin: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  }
+
+  .main {
+    display: grid;
+    grid-template-columns: 46.7px 113.3px auto 103.3px 13.3px;
+    grid-template-rows: 66.66px 293.34px 180px 60px 157.33px 201.33px;
+    border-width: 2px;
+    border-color: black;
+    /* border-style: dashed; */
+  }
+  .text {
+    color: white;
+    font-size: 20px;
+    transform: rotate(90deg);
+    margin-top: -1000px;
+    margin-right: 1110px;
+    height: 100px;
+    width: 300px;
+    font-family: sans-serif;
+    line-height: 20px;
+    letter-spacing: 1px;
+  }
+}
