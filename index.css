@@ -177,12 +177,12 @@ a:hover{
     color: white;
     font-size: 20px;
     transform: rotate(90deg);
-    margin-top: -890px;
-    margin-right: 510px;
+    margin-top: -880px;
+    margin-right: 100px;
     height: 100px;
-    width: 300px;
+    width: 200px;
     font-family: sans-serif;
-    line-height: 20px;
+    line-height: 25px;
     letter-spacing: 1px;
   }
 }
