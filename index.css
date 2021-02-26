@@ -171,6 +171,7 @@ a:hover{
     grid-template-rows: 66.66px 293.34px 180px 60px 157.33px 201.33px;
     border-width: 2px;
     border-color: black;
+    padding-bottom: 80px;
     /* border-style: dashed; */
   }
   .text {
