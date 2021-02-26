@@ -149,7 +149,7 @@ a:hover{
   border-width: 7px 0px 14px 7px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   body {
     background-color: lightblue;
   }
